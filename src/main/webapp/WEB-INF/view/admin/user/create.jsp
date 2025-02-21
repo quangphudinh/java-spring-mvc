@@ -22,7 +22,7 @@
                         <div class="col-md-6 col-12 mx-auto">
                             <h2 class="mb-4">Nhập Thông Tin</h2>
                             <hr />
-                            <form:form action="/admin/user/create1" method="POST" modelAttribute="newUser"
+                            <form:form action="/admin/user/create" method="POST" modelAttribute="newUser"
                                 class="row g-3">
 
                                 <div class="col-md-6">
